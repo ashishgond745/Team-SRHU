@@ -1,6 +1,7 @@
 # Clinical AI Pipeline Evaluation Report
 
-# Overview
+Overview
+
 This project evaluates the reliability of a clinical AI pipeline that extracts structured medical entities from OCR-processed medical charts.
 The dataset contains 30 clinical charts, each with extracted entity data and OCR text.
 
